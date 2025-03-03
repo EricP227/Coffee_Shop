@@ -1,15 +1,7 @@
-title {
-    background-color:purple;
-    color:green;
+header{background-color: lightgray;color:darkslategrey;}
+body{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif; 
 }
-h1 {
-    font-size: 24px;
-    color: grey;
-}
-header {
-    background-color: red;
-    color:green
-}
-body {
-    color: Indigo;
+h1{
+    font-family: Goudy Old Style,Garamond,Big Caslon,Times New Roman,serif; 
 }
